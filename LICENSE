@@ -1,0 +1,64 @@
+CAMOMILLA LICENSE
+
+Copyright © 2026 Roaring Soul. All rights reserved.
+Last updated: 17 October 2026.
+
+This license is an agreement between you and Roaring Soul ("we") about the Camomilla app ("the app").
+By installing or using the app, you accept this license. If you don't accept it, don't install or use the app.
+
+
+1. What you may do
+
+You may use the app for free, on any Mac that you own or control.
+You may use it for personal use and for work, also for a company or for clients.
+This license also covers the updates of the app, unless an update comes with a new license.
+
+
+2. What you may not do
+
+You may not modify, decompile, disassemble or reverse engineer the app.
+This does not apply as far as the applicable law allows it and the permission can't be excluded by contract.
+
+You may not publish the app or its installer anywhere else, and you may not sell it, rent it
+or include it in another product. To share the app, share the link to the official website
+or to the official releases on GitHub.
+
+
+3. Programs by others inside the app
+
+The app includes programs by other people:
+- in Camomilla.app/Contents/Helpers: FFmpeg, LAME, libwebp, cmark-gfm, and libvorbis and libogg
+  inside camomilla-vorbis;
+- in Camomilla.app/Contents/Frameworks: Sparkle and the FFmpeg libraries.
+
+Each of them stays under its own license. The same is true for the other parts by others that
+THIRD_PARTY_NOTICES.txt lists. That file has the full text of every license, and it is in
+Camomilla.app/Contents/Resources.
+
+Nothing in this license limits the rights that those licenses give you. Sections 2 and 6 don't
+apply to these programs: you may use, modify, reverse engineer and share them under their own
+licenses. This includes the right to get the source code of the LGPL programs (FFmpeg and LAME),
+which is published next to each release of the app, at https://github.com/roaringsoul404/camomilla/releases.
+
+
+4. No warranty
+
+The app is provided "as is", without warranty of any kind, express or implied. This includes
+the warranties of merchantability, fitness for a particular purpose and non-infringement.
+The app can contain errors.
+
+Keep a copy of your original files. Check the copies that the app makes before you rely on them.
+
+
+5. Liability
+
+As far as the applicable law allows, we are not liable for any damage that comes from using
+the app or from not being able to use it. This includes lost or damaged files.
+
+Nothing in this license limits a liability that the law does not allow to limit, or the rights
+that mandatory consumer law gives you.
+
+
+6. End of the license
+
+If you don't follow this license, it ends. Then stop using the app and delete it.
