@@ -84,20 +84,13 @@ curl -fsSL https://camomilla.app/install.sh | sh
 ```
 
 The command downloads the latest version from this page, checks its SHA-256 sum, copies Camomilla to Applications and opens it.
-It doesn’t use sudo. macOS opens Camomilla without the steps below. [Read the script](https://camomilla.app/install.sh).
+It doesn’t use sudo. [Read the script](https://camomilla.app/install.sh).
 
 Requirements: a Mac with Apple silicon and macOS 14 or later.
 
 ## The first time you open it
 
-Camomilla is not notarized by Apple, so the first time macOS stops the copy you downloaded from the browser. You allow it once:
-
-1. Open Camomilla from Applications. When macOS says it can’t be opened, click Done.
-2. Open System Settings, then Privacy & Security, and scroll down to Security.
-3. Next to the line about Camomilla, click Open Anyway.
-4. Confirm with Touch ID or your password. Camomilla opens, and macOS won’t ask again, not even after updates.
-
-On macOS 14 Sonoma, Control-click Camomilla in Applications, choose Open, then click Open.
+Camomilla is notarized by Apple, so macOS only asks if you’re sure: click Open.
 
 ## Privacy
 
