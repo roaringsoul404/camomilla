@@ -43,7 +43,7 @@ In Finder, right-click a file and open Quick Actions.
 |---|---|---|
 | Images | JPG, PNG, HEIC, TIFF, WebP, GIF, PDF | Compress, Metadata, Annotate, Backdrop, Crop, Redact, AirDrop |
 | Video | MP4, HEVC, WebM, GIF, WebP, M4A, one frame as PNG | Compress, Speed, Mute, Metadata, Downscale, Crop, AirDrop |
-| Audio | MP3, AAC, FLAC, WAV, OGG, Opus | Clean, Normalize, Trim Silence, Mono, Metadata, Compress, AirDrop |
+| Audio | MP3, M4A, AAC, FLAC, WAV, OGG, Opus | Clean, Normalize, Trim Silence, Mono, Metadata, Compress, AirDrop |
 | Documents | PDF, DOCX, TXT, Markdown, HTML, RTF, ODT, EPUB, SRT, VTT | For a PDF: Compress, Metadata, Split, Pages |
 | Archives | ZIP, 7Z, TAR.GZ | |
 
